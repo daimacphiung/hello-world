@@ -1,5 +1,3 @@
 # hello-world
-dai test git
-đẹp trai, tài năng, ấm áp, tố chất lãnh đạo,... là những gì anh không có :D
-Chuyên muốn test disk :D
-Chuyên phẫn nộ
+Chuyên test git
+xinh đẹp, tài năng, dịu dàng, đảm đang,... là những gì Chuyên không có :D
